@@ -1,0 +1,6 @@
+framework module Pods_lottiePlayground {
+  umbrella header "Pods-lottiePlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
